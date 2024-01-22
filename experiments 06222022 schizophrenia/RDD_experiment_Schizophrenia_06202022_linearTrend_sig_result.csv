@@ -1,0 +1,4 @@
+,index,Intervention,Shift mean,Shift HDI,Shift HDI significance,Shifted model WAIC,Non-shifted model WAIC,Shifted mdodel better?
+0,7,Esophageal_Disease,3.203482151031494,"[0.8483902, 5.7468276]",True,158.8982824871709,168.8746334049447,True
+1,16,Non-Specific_Gastrointestinal_Disorder,3.7319159507751465,"[1.5988384, 6.247144]",True,177.9265694172654,186.5356565592939,True
+2,2,Acute_Upper_Respiratory_Infection,9.815643310546875,"[2.1563118, 15.6782465]",True,288.01401176890283,284.43765534944527,False
